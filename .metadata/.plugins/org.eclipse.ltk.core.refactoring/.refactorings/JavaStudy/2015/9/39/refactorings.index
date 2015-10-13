@@ -1,0 +1,4 @@
+1442752332987	Move 'scripts.js' to 'resources'
+1442841713829	Inline local variable 'serverSocket'
+1442841728613	Extract local variable 'serverSocket'
+1442892477546	Delete element

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="gui"/>
+	<classpathentry kind="src" path="reusing"/>
+	<classpathentry kind="src" path="xml"/>
+	<classpathentry kind="src" path="strings"/>
+	<classpathentry kind="src" path="operators"/>
+	<classpathentry kind="src" path="enumerated"/>
+	<classpathentry kind="src" path="access"/>
+	<classpathentry kind="src" path="arrays"/>
+	<classpathentry kind="src" path="initialization"/>
+	<classpathentry kind="src" path="exceptions"/>
+	<classpathentry kind="src" path="bangbean"/>
+	<classpathentry kind="src" path="containers"/>
+	<classpathentry kind="src" path="control"/>
+	<classpathentry kind="src" path="frogbean"/>
+	<classpathentry kind="src" path="innerclasses"/>
+	<classpathentry kind="src" path="typeinfo"/>
+	<classpathentry kind="src" path="interfaces"/>
+	<classpathentry kind="src" path="swt"/>
+	<classpathentry kind="src" path="polymorphism"/>
+	<classpathentry kind="src" path="concurrency"/>
+	<classpathentry kind="src" path="holding"/>
+	<classpathentry kind="src" path="annotations"/>
+	<classpathentry kind="src" path="generics"/>
+	<classpathentry kind="src" path="io"/>
+	<classpathentry kind="src" path="net"/>
+	<classpathentry kind="src" path="object"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

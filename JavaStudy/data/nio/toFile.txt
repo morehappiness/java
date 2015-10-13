@@ -1,0 +1,3 @@
+New String to write to file...1443432398865
+ from the source channel and write them to this channel's file starting at the given position. An invocation of this method may or may not transfer all of the requested bytes; whether or not it does so depends upon the natures and states of the channels. Fewer than the requested number of bytes will be transferred if the source channel has fewer than count bytes remaining, or if the source channel is non-blocking and has fewer than count bytes immediately available in its input buffer.
+

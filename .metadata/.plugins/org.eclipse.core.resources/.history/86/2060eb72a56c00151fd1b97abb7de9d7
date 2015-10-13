@@ -1,0 +1,14 @@
+import java.io.File;
+
+
+public class FilenameFilterTest {
+
+	public static void main(String[] args) {
+		File f = new File(".");
+		f.list((File dir, String name) -> {
+			return true;
+		});
+
+	}
+
+}

@@ -1,0 +1,23 @@
+package basic;
+
+import java.io.IOException;
+import java.nio.channels.Channel;
+import java.nio.channels.SelectionKey;
+import java.nio.channels.Selector;
+import java.nio.channels.ServerSocketChannel;
+
+public class SelectorTest {
+
+	public static void main(String[] args) throws IOException {
+		Selector selector = Selector.open();
+
+		ServerSocketChannel channel = null;
+		channel.configureBlocking(false);
+
+		SelectionKey key = channel.register(selector,
+		SelectionKey.OP_READ);
+
+
+	}
+
+}

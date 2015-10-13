@@ -1,0 +1,15 @@
+import java.io.File;
+import java.util.Arrays;
+
+public class FilenameFilterTest {
+
+	public static void main(String[] args) {
+		File f = new File(".");
+		System.out.println(Arrays.toString(f.list((dir, name) -> {
+			return args[0].length() > 0;
+		})));
+		System.out.println(Arrays.toString(f.list((dir, name) -> {
+			return args[0].length() > 0;
+		})));
+	}
+}

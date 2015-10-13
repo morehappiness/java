@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Genuitec</title>
+	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.genuitec.com</link>
+	<description>The Cloud Control Company</description>
+	<lastBuildDate>Tue, 13 Oct 2015 09:17:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.4</generator>
+	<item>
+		<title>GapDebug Twitter Chat &#8211; October 6th Recap</title>
+		<link>https://www.genuitec.com/gapdebug-twitter-chat-october-6th-recap/</link>
+		<comments>https://www.genuitec.com/gapdebug-twitter-chat-october-6th-recap/#comments</comments>
+		<pubDate>Wed, 07 Oct 2015 15:29:07 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[GapDebug]]></category>
+		<category><![CDATA[Genuitec]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=454440</guid>
+		<description><![CDATA[<p>Here is the Twitter chat recap in case you missed it!Q1 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/gapdebug-twitter-chat-october-6th-recap/">GapDebug Twitter Chat &#8211; October 6th Recap</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/gapdebug-twitter-chat-october-6th-recap/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Creating Custom Slack Commands with JAX-RS</title>
+		<link>https://www.genuitec.com/creating-custom-slack-commands-with-jax-rs/</link>
+		<comments>https://www.genuitec.com/creating-custom-slack-commands-with-jax-rs/#comments</comments>
+		<pubDate>Tue, 06 Oct 2015 19:46:29 +0000</pubDate>
+		<dc:creator><![CDATA[aaronlonin]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[How-to's]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Planet Eclipse]]></category>
+		<category><![CDATA[debug]]></category>
+		<category><![CDATA[pdt]]></category>
+		<category><![CDATA[php]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=454354</guid>
+		<description><![CDATA[<p>Many teams, including ours, now use Slack for team coll [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/creating-custom-slack-commands-with-jax-rs/">Creating Custom Slack Commands with JAX-RS</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/creating-custom-slack-commands-with-jax-rs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>2 Releases, 1 purpose: Improving your coding experience.</title>
+		<link>https://www.genuitec.com/2-releases-1-purpose-improving-your-coding-experience/</link>
+		<comments>https://www.genuitec.com/2-releases-1-purpose-improving-your-coding-experience/#comments</comments>
+		<pubDate>Tue, 06 Oct 2015 15:33:40 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[release]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=454258</guid>
+		<description><![CDATA[<p>Webclipse 2015 CI4 &#38; MyEclipse CI15The GoodFirst of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/2-releases-1-purpose-improving-your-coding-experience/">2 Releases, 1 purpose: Improving your coding experience.</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/2-releases-1-purpose-improving-your-coding-experience/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Debugging PHP with Eclipse PDT: A WordPress Example</title>
+		<link>https://www.genuitec.com/debugging-php-with-eclipse-pdt/</link>
+		<comments>https://www.genuitec.com/debugging-php-with-eclipse-pdt/#comments</comments>
+		<pubDate>Thu, 01 Oct 2015 15:01:16 +0000</pubDate>
+		<dc:creator><![CDATA[support-octavio]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[How-to's]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Planet Eclipse]]></category>
+		<category><![CDATA[debug]]></category>
+		<category><![CDATA[pdt]]></category>
+		<category><![CDATA[php]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=453794</guid>
+		<description><![CDATA[<p>IntroductionIf you code PHP and are tired of fighting l [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/debugging-php-with-eclipse-pdt/">Debugging PHP with Eclipse PDT: A WordPress Example</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/debugging-php-with-eclipse-pdt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spring Framework: @RestController vs @Controller</title>
+		<link>https://www.genuitec.com/spring-frameworkrestcontroller-vs-controller/</link>
+		<comments>https://www.genuitec.com/spring-frameworkrestcontroller-vs-controller/#comments</comments>
+		<pubDate>Mon, 28 Sep 2015 15:11:33 +0000</pubDate>
+		<dc:creator><![CDATA[Srivatsan Sundararajan]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Planet Eclipse]]></category>
+		<category><![CDATA[json]]></category>
+		<category><![CDATA[ResponseBody]]></category>
+		<category><![CDATA[rest controller]]></category>
+		<category><![CDATA[Rest Web Services]]></category>
+		<category><![CDATA[Spring MVC]]></category>
+		<category><![CDATA[XML]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=453563</guid>
+		<description><![CDATA[<p>Spring MVC Framework and RESTSpring’s annotation based  [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/spring-frameworkrestcontroller-vs-controller/">Spring Framework: @RestController vs @Controller</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/spring-frameworkrestcontroller-vs-controller/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Delivering Zend Studio</title>
+		<link>https://www.genuitec.com/delivering-zend-studio/</link>
+		<comments>https://www.genuitec.com/delivering-zend-studio/#comments</comments>
+		<pubDate>Thu, 24 Sep 2015 13:43:04 +0000</pubDate>
+		<dc:creator><![CDATA[ignaciom]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Secure Delivery Center]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=453493</guid>
+		<description><![CDATA[<p>Zend Studio is a popular integration of Eclipse for PHP [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/delivering-zend-studio/">Delivering Zend Studio</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/delivering-zend-studio/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SDC Twitter Chat &#8211; Sep 22nd Recap</title>
+		<link>https://www.genuitec.com/sdc-twitter-chat-sep-22nd-recap/</link>
+		<comments>https://www.genuitec.com/sdc-twitter-chat-sep-22nd-recap/#comments</comments>
+		<pubDate>Wed, 23 Sep 2015 15:42:51 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Secure Delivery Center]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=453466</guid>
+		<description><![CDATA[<p>Here is the Twitter chat recap in case you missed it!Q1 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/sdc-twitter-chat-sep-22nd-recap/">SDC Twitter Chat &#8211; Sep 22nd Recap</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/sdc-twitter-chat-sep-22nd-recap/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Introduction to MQTT Protocol</title>
+		<link>https://www.genuitec.com/introduction-to-mqtt-protocol/</link>
+		<comments>https://www.genuitec.com/introduction-to-mqtt-protocol/#comments</comments>
+		<pubDate>Tue, 22 Sep 2015 18:04:09 +0000</pubDate>
+		<dc:creator><![CDATA[Wojciech Galanciak]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=453265</guid>
+		<description><![CDATA[<p>IntroductionThe Internet of Things (IoT) is a fast grow [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/introduction-to-mqtt-protocol/">Introduction to MQTT Protocol</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/introduction-to-mqtt-protocol/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Eclipse Night London Rocked!</title>
+		<link>https://www.genuitec.com/eclipse-night-london-rocked/</link>
+		<comments>https://www.genuitec.com/eclipse-night-london-rocked/#comments</comments>
+		<pubDate>Mon, 21 Sep 2015 21:07:47 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[London]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=452920</guid>
+		<description><![CDATA[<p>We had an amazing time at Eclipse Night London. Questio [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/eclipse-night-london-rocked/">Eclipse Night London Rocked!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/eclipse-night-london-rocked/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gapdebug +iOS 9!</title>
+		<link>https://www.genuitec.com/gapdebug-ios-9/</link>
+		<comments>https://www.genuitec.com/gapdebug-ios-9/#comments</comments>
+		<pubDate>Tue, 15 Sep 2015 17:39:09 +0000</pubDate>
+		<dc:creator><![CDATA[Genuitec Administrator]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=452895</guid>
+		<description><![CDATA[<p>Hello Developers!We are releasing a new update on GapDe [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/gapdebug-ios-9/">Gapdebug +iOS 9!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/gapdebug-ios-9/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Coding Tip: Using Custom Bindings for Property Editing in Sapphire</title>
+		<link>https://www.genuitec.com/custom-bindings-for-property-editing-in-sapphire/</link>
+		<comments>https://www.genuitec.com/custom-bindings-for-property-editing-in-sapphire/#comments</comments>
+		<pubDate>Mon, 14 Sep 2015 13:44:07 +0000</pubDate>
+		<dc:creator><![CDATA[dimitry]]></dc:creator>
+				<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Planet Eclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=452533</guid>
+		<description><![CDATA[<p>The ChallengeHopefully you have already discovered what [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/custom-bindings-for-property-editing-in-sapphire/">Coding Tip: Using Custom Bindings for Property Editing in Sapphire</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/custom-bindings-for-property-editing-in-sapphire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Coding Tip: Using Dynamic Proxies to Cross Classloader Barriers</title>
+		<link>https://www.genuitec.com/using-dynamic-proxies/</link>
+		<comments>https://www.genuitec.com/using-dynamic-proxies/#comments</comments>
+		<pubDate>Tue, 08 Sep 2015 12:50:46 +0000</pubDate>
+		<dc:creator><![CDATA[support-piotr]]></dc:creator>
+				<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Planet Eclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=452435</guid>
+		<description><![CDATA[<p>The ChallengeDealing with classloaders can be tricky, e [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/using-dynamic-proxies/">Coding Tip: Using Dynamic Proxies to Cross Classloader Barriers</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/using-dynamic-proxies/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>REST inspect you said?</title>
+		<link>https://www.genuitec.com/rest-inspect-you-said/</link>
+		<comments>https://www.genuitec.com/rest-inspect-you-said/#comments</comments>
+		<pubDate>Fri, 04 Sep 2015 14:06:12 +0000</pubDate>
+		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[products]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[REST]]></category>
+		<category><![CDATA[Rest Web Services]]></category>
+		<category><![CDATA[RESTful]]></category>
+		<category><![CDATA[sandbox]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=452100</guid>
+		<description><![CDATA[<p>Yes, REST inspect. You remember the time when you wante [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/rest-inspect-you-said/">REST inspect you said?</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/rest-inspect-you-said/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ready for Eclipse Night London?</title>
+		<link>https://www.genuitec.com/ready-for-eclipse-night-london/</link>
+		<comments>https://www.genuitec.com/ready-for-eclipse-night-london/#comments</comments>
+		<pubDate>Wed, 26 Aug 2015 14:25:35 +0000</pubDate>
+		<dc:creator><![CDATA[Genuitec Administrator]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[coder]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[London]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=451483</guid>
+		<description><![CDATA[<p>Hi fellow coders!Genuitec knows how important is for a  [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/ready-for-eclipse-night-london/">Ready for Eclipse Night London?</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/ready-for-eclipse-night-london/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>99 problems, but a JavaScript debugger ain’t one</title>
+		<link>https://www.genuitec.com/webclipse-introducesjavascriptdebugger/</link>
+		<comments>https://www.genuitec.com/webclipse-introducesjavascriptdebugger/#comments</comments>
+		<pubDate>Tue, 25 Aug 2015 16:56:18 +0000</pubDate>
+		<dc:creator><![CDATA[Anabella]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[continuous debugging]]></category>
+		<category><![CDATA[debug]]></category>
+		<category><![CDATA[Java EE]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[javascript debugger]]></category>
+		<category><![CDATA[Rest Web Services]]></category>
+		<category><![CDATA[RESTful services]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=451603</guid>
+		<description><![CDATA[<p>If one or more of these phrases have crossed your mind  [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/webclipse-introducesjavascriptdebugger/">99 problems, but a JavaScript debugger ain’t one</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/webclipse-introducesjavascriptdebugger/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 21/48 queries in 0.027 seconds using apc
+Object Caching 1965/2070 objects using apc
+Content Delivery Network via resources.cloud.genuitec.com
+
+ Served from: www.genuitec.com @ 2015-10-13 06:16:25 by W3 Total Cache -->
